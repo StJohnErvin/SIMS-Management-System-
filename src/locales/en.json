@@ -1,0 +1,280 @@
+{
+    "links": {
+        "adminDashboard": "Admin Dashboard",
+        "addStudent":"Student",
+        "studentPayment":"Student Payment",
+        "studentReciept":"Student Reciept",
+        "inventory": "Inventory",
+        "order": "Order",
+        "recipe": "Reciept",
+        "signout": "Sign Out",
+        
+        "language": {
+            "header0": "Language",
+            "header1": "Turkish",
+            "header2": "English",
+            "header3": "Arabic"
+        },
+        "tutorials": "Tutorials"
+    },
+    "adminDashboard": {
+        "dashboard": "Dashboard",
+        "outOfStockTable": "",
+        "noteTitle": "Note Title",
+        "pleaseEnterTitle": "Please enter note title!",
+        "pleaseEnterNote": "Please enter your note!",
+        "note": "Note",
+        "myNotes": "My Notes",
+        "addBtn": "Add New Note",
+        "name": "Name",
+        "code": "Code",
+        "category": "Category",
+        "unit": "Unit",
+        "remainingStock": "Remaining Stock",
+        "dltBttn": "Delete",
+        "dltBttnWarning": "Sure to delete?",
+        "loading": "Loading..."
+    },
+    "inventory": {
+        "inventory": " ",
+        "addBtn": "Add new item",
+        "loading": "Loading...",
+        "editModal": {
+            "price": "Price",
+            "pricePlc": "Price...",
+            "Stock": "Stock",
+            "StockPlc": "Stock...",
+            "unit": "Unit",
+            "editItemInfo": "Edit item info"
+        },
+        "addBtnModal": {
+            "modalTitle": "Add new item to inventory",
+            "itemName": "Item name",
+            "category": "Category",
+            "price": "Price",
+            "stock": "Stock",
+            "stockWarning": "Warn me when stock less than this amount",
+            "unit": "Unit",
+            "categoryMenu": {
+                "items": "Office items",
+                "green": "Greens",
+                "animal": "Animal",
+                "oilSauce": "Oil/Sauce",
+                "spice": "Spice",
+                "canned": "Canned Food",
+                "dryFood": "Dry Food",
+                "fruit": "Fruit"
+            },
+            "pleaseItemName": "Please enter item name!",
+            "pleaseStockAmount": "Please enter the item's quantity in stock!",
+            "pleaseStockLimit": "Please enter the least amount for stock limit to warn you!",
+            "pleaseSelectCategory" : "Please select the category for the item!",
+            "pleaseSelectUnit" : "Please select the unit for the item!",
+            "ok": "OK",
+            "cancel": "Cancel"
+        },
+        "inventoryTable": {
+            "name": "Name",
+            "code": "Code",
+            "category": "Category",
+            "unit": "Unit",
+            "price": "Price",
+            "stock": "Stock",
+            "action": "Action",
+            "actionBtns": {
+                "edit": "Edit",
+                "delete": "Delete"
+            },
+            "sureToDelete": "Sure to delete?",
+            "searchBox": "Search",
+            "reset": "Reset",
+            "triggerDesc": "Click sort by descend",
+            "triggerAsc": "Click sort by ascend",
+            "cancelSort": "Click to cancel sort"
+        }
+    },
+    "order": {
+        "orders": "",
+        "addOrder": "Add Order",
+        "selectAnOrder": "Select an order",
+        "errorText": "Error Text",
+        "insufText": "Insufficient ingredients:",
+        "cancelBtn": "Cancel",
+        "tableHeader0": "Order",
+        "tableHeader1": "Date",
+        "tableHeader2": "Action",
+        "sureToCancel": "Sure to cancel?",
+        "searchBox": "Search",
+        "reset": "Reset",
+        "successNotification": "Order successful!",
+        "successNotification2": "Success!",
+        "errorNotification": "Missing ingredients:",
+        "loading": "Loading..."
+    },
+    "recipe": {
+        "recipe": "",
+        "addBtn": "Add new Receipt",
+        "name": "Name",
+        "code": "Code",
+        "action": "Action",
+        "deleteBtn": "Delete",
+        "addDrawer": {
+            "title": "Create a new Receipt",
+            "nameInput": "Receipt Name:",
+            "missingRecMessage": "Missing Receipt name",
+            "addIngInp": "Add items",
+            "ingredient": "Items:",
+            "amount": "Amount",
+            "missingIngMessage": "Missing Item",
+            "selectIngMenu": "Select an item",
+            "missingAmountMessage": "Missing amount",
+            "submitBtn": "Submit",
+            "cancelBtn": "Cancel",
+            "warningMissingAmount": "Missing amount!"
+        },
+        "loading": "Loading...",
+        "sureToDelete": "Sure to delete?",
+        "searchBox": "Search",
+        "reset": "Reset",
+        "ok": "OK"
+    },
+
+
+
+"student": {
+    "student": " ",
+    "addBtn": "Add new student",
+    "loading": "Loading...",
+    "editModal": {
+        "tuition": "Tuition Fee",
+        "tuitionPlc": "Tuition...",
+        "Balance": "Balance",
+        "BalancePlc": "Balance...",
+        "unit": "PHP",
+        "editStudentInfo": "Edit student info"
+    },
+    "addBtnModal": {
+        "modalTitle": "Add new student to system",
+        "studentName": "Student name",
+        "course": "Spanish",
+        "tuition": "Tuition",
+        "balance": "Balance",
+        "balanceWarning": "Warn me when balance is less than this amount",
+        "unit": "PHP",
+        "courseMenu": {
+            "spanish": "Spanish"
+            
+        },
+        "pleaseStudentName": "Please enter student name!",
+        "pleaseBalanceAmount": "Please enter the students tuition balance!",
+        "pleaseBalanceLimit": "Please enter the least amount for tuition limit to warn you!",
+        "pleaseSelectCourse" : "Please select the course for the student!",
+        "pleaseSelectUnit" : "Please select the unit for the payment!",
+        "ok": "OK",
+        "cancel": "Cancel"
+    },
+    "studentTable": {
+        "name": "Name",
+        "code": "Code",
+        "course": "Course",
+        "unit": "PHP",
+        "tuition": "Tuition",
+        "balance": "Balance",
+        "action": "Action",
+        "actionBtns": {
+            "edit": "Edit",
+            "delete": "Delete"
+        },
+        "sureToDelete": "Sure to delete?",
+        "searchBox": "Search",
+        "reset": "Reset",
+        "triggerDesc": "Click sort by descend",
+        "triggerAsc": "Click sort by ascend",
+        "cancelSort": "Click to cancel sort"
+    }
+},
+"payment": {
+    "payment": "",
+    "addPayment": "Add Payment",
+    "selectPayment": "Select Payment",
+    "errorText": "Error Text",
+    "insufText": "Insufficient details:",
+    "cancelBtn": "Cancel",
+    "tableHeader0": "Payment",
+    "tableHeader1": "Date",
+    "tableHeader2": "Action",
+    "sureToCancel": "Sure to cancel?",
+    "searchBox": "Search",
+    "reset": "Reset",
+    "successNotification": "Payment successful!",
+    "successNotification2": "Success!",
+    "errorNotification": "Missing details:",
+    "loading": "Loading..."
+},
+"studentreceipt": {
+    "receipt": "",
+    "addBtn": "Add new Receipt",
+    "name": "Name",
+    "code": "Code",
+    "action": "Action",
+    "deleteBtn": "Delete",
+    "addDrawer": {
+        "title": "Create a new Receipt",
+        "nameInput": "Receipt Name:",
+        "missingRecMessage": "Missing Receipt name",
+        "addIngInp": "Add Name",
+        "ingredient": "Name:",
+        "amount": "Amount",
+        "missingIngMessage": "Missing Item",
+        "selectIngMenu": "Select an item",
+        "missingAmountMessage": "Missing amount",
+        "submitBtn": "Submit",
+        "cancelBtn": "Cancel",
+        "warningMissingAmount": "Missing amount!"
+    },
+    "loading": "Loading...",
+    "sureToDelete": "Sure to delete?",
+    "searchBox": "Search",
+    "reset": "Reset",
+    "ok": "OK"
+},
+
+    "signOut": {
+        "title": "Signing out...",
+        "modalMessage": "Are you sure you want to log out?",
+        "ok": "OK",
+        "cancel": "Cancel"
+    },
+    "home" : {
+        "title0": "Smart Mind Solution",
+        "title1": "SIMS (Sales and Inventory System Management",
+        "text0": "Please enter your organization's credentials.",
+        "text1": "Only authorized accounts can access the system."
+    },
+    "login": {
+        "label0": "E-Mail",
+        "label1": "Password",
+        "text0": "Sign In",
+        "text1": "Forgot your password?",
+        "text2": "Reset Password",
+        "text3": "Reset",
+        "text4": "An email has been sent to you to reset the password",
+        "text5": "Sign in here:",
+        "text6": "enter e-mail",
+        "tex7": "enter password"
+    },
+    "tutorials": {
+        "header0": "Tutorials",
+        "loginScreen": "How to login to the system?",
+        "generalNav": "A quick look at the general layout!",
+        "inventoryDetail": "A detailed look at the inventory screen!",
+        "recipeDetail": "A detailed look at the recipe screen!",
+        "orderDetail": "A detailed look at the order screen!",
+        "adminDetail": "A detailed look at the admin dashboard!",
+        "tutorialDetail": "A detailed look at the tutorials screen!"
+    },
+    "deleteButton": {
+        "ok" : "Yes",
+        "cancel": "No"
+    }
+}

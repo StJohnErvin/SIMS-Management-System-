@@ -1,0 +1,19 @@
+.logo {
+    height: 32px;
+    margin: 16px;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    font-size: large;
+  }
+  
+  .site-layout-sub-header-background {
+    background: #fff;
+  }
+  
+  .site-layout-background {
+    background: #fff;
+  }
+
+  .langDropdown {
+    margin-top: 1em;
+  }

@@ -1,0 +1,12 @@
+
+
+label{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.input{
+    width: 40%;
+}
+
+/* fix alignment input fields */
