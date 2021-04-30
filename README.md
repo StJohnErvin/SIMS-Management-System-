@@ -1,4 +1,4 @@
-# Sales And Inventory Management System SIMS
+# Sales and Inventory Management System SIMS
 
 An open source Sales And Inventory management system 
 
@@ -9,9 +9,9 @@ This web application was developed to store data, create order, create receipt ,
 
 ## NOTE
 
-This web application was an unpaid task of HOLA AMIGOS PH, there for as the author I have the right to claim all the rights of this web application.
+-This web application was an unpaid task of HOLA AMIGOS PH, there for as the author I have the right to claim all the rights of this web application.
 
-Still on progress fixing bugs but the Inventory part is working 100%
+-Still on progress fixing bugs but the Inventory part is working 100%
 
 ## Built With
 
