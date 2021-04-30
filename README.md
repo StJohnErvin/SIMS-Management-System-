@@ -11,6 +11,8 @@ This web application was developed to store data, create order, create receipt ,
 
 This web application was an unpaid task of HOLA AMIGOS PH, there for as the author I have the right to claim all the rights of this web application.
 
+Still on progress fixing bugs but the Inventory part is working 100%
+
 ## Built With
 
 SIMS was created using React.js and Firebase
